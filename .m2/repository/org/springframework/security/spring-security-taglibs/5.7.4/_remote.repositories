@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 27 22:23:41 IST 2022
+spring-security-taglibs-5.7.4-sources.jar>central=
+spring-security-taglibs-5.7.4.jar>central=
+spring-security-taglibs-5.7.4.pom>central=

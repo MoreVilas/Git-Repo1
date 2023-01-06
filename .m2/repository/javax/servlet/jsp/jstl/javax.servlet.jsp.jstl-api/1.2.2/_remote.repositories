@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 25 23:26:11 IST 2022
+javax.servlet.jsp.jstl-api-1.2.2-sources.jar>central=
+javax.servlet.jsp.jstl-api-1.2.2.jar>central=
+javax.servlet.jsp.jstl-api-1.2.2.pom>central=

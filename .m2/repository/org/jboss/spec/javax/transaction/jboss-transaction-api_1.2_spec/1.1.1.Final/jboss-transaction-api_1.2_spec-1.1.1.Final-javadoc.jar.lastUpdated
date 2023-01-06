@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Nov 11 23:38:10 IST 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1668190090894
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.jboss.spec.javax.transaction\:jboss-transaction-api_1.2_spec\:jar\:javadoc\:1.1.1.Final from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 25 23:23:49 IST 2022
+slf4j-api-2.0.6-sources.jar>central=
+slf4j-api-2.0.6.jar>central=
+slf4j-api-2.0.6.pom>central=

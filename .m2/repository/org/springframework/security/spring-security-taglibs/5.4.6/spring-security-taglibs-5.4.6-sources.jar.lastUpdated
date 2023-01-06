@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 26 17:27:44 IST 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1666785464665
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.security\:spring-security-taglibs\:jar\:sources\:5.4.6 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
